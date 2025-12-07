@@ -1,0 +1,14 @@
+
+
+** Kirana Store **
+
+
+** Bill **
+Customer Name: mr xyz
+Customer Number: 252
+Item Type: rice
+Quantity: 5 Kilograms
+Price per unit: Rs 60 (for rice)
+CGST (5%): Rs 15
+SGST (5%): Rs 15
+Total Amount (including tax): Rs 330
